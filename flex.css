@@ -45,7 +45,6 @@ h1 {
 
 .first {
     font-family: Montserrat;
-    font-weight: 500;
     color: hsl(228, 12%, 48%)
 }
 
@@ -89,22 +88,20 @@ i {
     img {
         border-top-right-radius: 10px;
         border-bottom-left-radius: 0;
-        height: 300px;
-        width: 400px;
+        height: 250px;
+        width: 300px;
         object-fit: cover;
     }
 
     .two {
         border-top-right-radius: 0;
         border-bottom-left-radius: 10px;
-        width: 400px;
+        width: 300px;
         padding: 15px;
     }
 
     button {
         width: 100%;
-        margin: 0 auto;
-        font-size: 16px;
         margin-bottom: 10px;
     }
 
